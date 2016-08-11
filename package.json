@@ -1,0 +1,10 @@
+{
+  "name": "beacon-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "author": "",
+  "dependencies": {
+    "eddystone-beacon": "^1.0.6"
+  }
+}
