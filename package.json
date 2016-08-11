@@ -1,9 +1,9 @@
 {
   "name": "beacon-demo",
   "version": "1.0.0",
-  "description": "",
+  "description": "A demo using an Eddystone beacon to serve bus schedules",
   "main": "server.js",
-  "author": "",
+  "author": "Nick Stark <dev.nickstark@gmail.com>",
   "dependencies": {
     "eddystone-beacon": "^1.0.6"
   }
